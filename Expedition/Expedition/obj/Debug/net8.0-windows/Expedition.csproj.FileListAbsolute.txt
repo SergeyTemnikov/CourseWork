@@ -1,0 +1,50 @@
+C:\Users\SergeyT\source\repos\Expedition\Expedition\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\SergeyT\source\repos\Expedition\Expedition\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\SergeyT\source\repos\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition_MarkupCompile.cache
+C:\Users\SergeyT\source\repos\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition_MarkupCompile.lref
+C:\Users\SergeyT\source\repos\Expedition\Expedition\bin\Debug\net8.0-windows\Expedition.exe
+C:\Users\SergeyT\source\repos\Expedition\Expedition\bin\Debug\net8.0-windows\Expedition.deps.json
+C:\Users\SergeyT\source\repos\Expedition\Expedition\bin\Debug\net8.0-windows\Expedition.runtimeconfig.json
+C:\Users\SergeyT\source\repos\Expedition\Expedition\bin\Debug\net8.0-windows\Expedition.dll
+C:\Users\SergeyT\source\repos\Expedition\Expedition\bin\Debug\net8.0-windows\Expedition.pdb
+C:\Users\SergeyT\source\repos\Expedition\Expedition\obj\Debug\net8.0-windows\App.baml
+C:\Users\SergeyT\source\repos\Expedition\Expedition\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\SergeyT\source\repos\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.g.resources
+C:\Users\SergeyT\source\repos\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergeyT\source\repos\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.AssemblyInfoInputs.cache
+C:\Users\SergeyT\source\repos\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.AssemblyInfo.cs
+C:\Users\SergeyT\source\repos\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.csproj.CoreCompileInputs.cache
+C:\Users\SergeyT\source\repos\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.dll
+C:\Users\SergeyT\source\repos\Expedition\Expedition\obj\Debug\net8.0-windows\refint\Expedition.dll
+C:\Users\SergeyT\source\repos\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.pdb
+C:\Users\SergeyT\source\repos\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.genruntimeconfig.cache
+C:\Users\SergeyT\source\repos\Expedition\Expedition\obj\Debug\net8.0-windows\ref\Expedition.dll
+C:\Users\SergeyT\source\repos\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.csproj.AssemblyReference.cache
+C:\Users\SergeyT\source\repos\Expedition\Expedition\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\SergeyT\source\repos\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.csproj.Up2Date
+C:\Users\SergeyT\source\repos\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition_Content.g.cs
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\bin\Debug\net8.0-windows\Expedition.exe
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\bin\Debug\net8.0-windows\Expedition.deps.json
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\bin\Debug\net8.0-windows\Expedition.runtimeconfig.json
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\bin\Debug\net8.0-windows\Expedition.dll
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\bin\Debug\net8.0-windows\Expedition.pdb
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.csproj.AssemblyReference.cache
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition_Content.g.cs
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition_MarkupCompile.cache
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition_MarkupCompile.lref
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\obj\Debug\net8.0-windows\App.baml
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.g.resources
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.AssemblyInfoInputs.cache
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.AssemblyInfo.cs
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.csproj.CoreCompileInputs.cache
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.csproj.Up2Date
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.dll
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\obj\Debug\net8.0-windows\refint\Expedition.dll
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.pdb
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\obj\Debug\net8.0-windows\Expedition.genruntimeconfig.cache
+C:\Users\SergeyT\Desktop\Курсовая работа\Expedition\Expedition\obj\Debug\net8.0-windows\ref\Expedition.dll

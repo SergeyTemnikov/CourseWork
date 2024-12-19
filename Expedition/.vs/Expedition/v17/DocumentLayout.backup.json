@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SergeyT\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Expedition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84255F7E-3C24-4312-9911-1CED7E06CB54}|Expedition\\Expedition.csproj|c:\\users\\sergeyt\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\expedition\\expedition\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84255F7E-3C24-4312-9911-1CED7E06CB54}|Expedition\\Expedition.csproj|solutionrelative:expedition\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84255F7E-3C24-4312-9911-1CED7E06CB54}|Expedition\\Expedition.csproj|c:\\users\\sergeyt\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\expedition\\expedition\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84255F7E-3C24-4312-9911-1CED7E06CB54}|Expedition\\Expedition.csproj|solutionrelative:expedition\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84255F7E-3C24-4312-9911-1CED7E06CB54}|Expedition\\Expedition.csproj|c:\\users\\sergeyt\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\expedition\\expedition\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{84255F7E-3C24-4312-9911-1CED7E06CB54}|Expedition\\Expedition.csproj|solutionrelative:expedition\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84255F7E-3C24-4312-9911-1CED7E06CB54}|Expedition\\Expedition.csproj|c:\\users\\sergeyt\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\expedition\\expedition\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84255F7E-3C24-4312-9911-1CED7E06CB54}|Expedition\\Expedition.csproj|solutionrelative:expedition\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84255F7E-3C24-4312-9911-1CED7E06CB54}|Expedition\\Expedition.csproj|c:\\users\\sergeyt\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\expedition\\expedition\\initializegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84255F7E-3C24-4312-9911-1CED7E06CB54}|Expedition\\Expedition.csproj|solutionrelative:expedition\\initializegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84255F7E-3C24-4312-9911-1CED7E06CB54}|Expedition\\Expedition.csproj|c:\\users\\sergeyt\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\expedition\\expedition\\models\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84255F7E-3C24-4312-9911-1CED7E06CB54}|Expedition\\Expedition.csproj|solutionrelative:expedition\\models\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84255F7E-3C24-4312-9911-1CED7E06CB54}|Expedition\\Expedition.csproj|c:\\users\\sergeyt\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\expedition\\expedition\\models\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84255F7E-3C24-4312-9911-1CED7E06CB54}|Expedition\\Expedition.csproj|solutionrelative:expedition\\models\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 676,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\SergeyT\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Expedition\\Expedition\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Expedition\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\SergeyT\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Expedition\\Expedition\\Models\\Player.cs",
+              "RelativeToolTip": "Expedition\\Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:15:53.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\SergeyT\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Expedition\\Expedition\\App.xaml",
+              "RelativeDocumentMoniker": "Expedition\\App.xaml",
+              "ToolTip": "C:\\Users\\SergeyT\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Expedition\\Expedition\\App.xaml",
+              "RelativeToolTip": "Expedition\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T20:09:10.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Quest.cs",
+              "DocumentMoniker": "C:\\Users\\SergeyT\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Expedition\\Expedition\\Models\\Quest.cs",
+              "RelativeDocumentMoniker": "Expedition\\Models\\Quest.cs",
+              "ToolTip": "C:\\Users\\SergeyT\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Expedition\\Expedition\\Models\\Quest.cs",
+              "RelativeToolTip": "Expedition\\Models\\Quest.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAcwBoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:11:47.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SergeyT\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Expedition\\Expedition\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Expedition\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\SergeyT\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Expedition\\Expedition\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Expedition\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAqwK4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:02:40.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "C:\\Users\\SergeyT\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Expedition\\Expedition\\Models\\GameModel.cs",
+              "RelativeDocumentMoniker": "Expedition\\Models\\GameModel.cs",
+              "ToolTip": "C:\\Users\\SergeyT\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Expedition\\Expedition\\Models\\GameModel.cs",
+              "RelativeToolTip": "Expedition\\Models\\GameModel.cs",
+              "ViewState": "AgIAAGoBAAAAAAAAAAAIwKcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:24:20.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\SergeyT\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Expedition\\Expedition\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Expedition\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\SergeyT\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Expedition\\Expedition\\MainWindow.xaml",
+              "RelativeToolTip": "Expedition\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T14:25:40.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InitializeGame.cs",
+              "DocumentMoniker": "C:\\Users\\SergeyT\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Expedition\\Expedition\\InitializeGame.cs",
+              "RelativeDocumentMoniker": "Expedition\\InitializeGame.cs",
+              "ToolTip": "C:\\Users\\SergeyT\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Expedition\\Expedition\\InitializeGame.cs",
+              "RelativeToolTip": "Expedition\\InitializeGame.cs",
+              "ViewState": "AgIAAG0BAAAAAAAAAAAIwJMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:39:37.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

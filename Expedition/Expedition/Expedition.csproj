@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>submarine_ico.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="submarine_ico.ico" />
+	  <None Remove="Fonts\FeatureMono-Bold.ttf" />
+	  <None Remove="Fonts\FeatureMono-Hairline.ttf" />
+	  <None Remove="Fonts\FeatureMono-Light.ttf" />
+	  <None Remove="Fonts\FeatureMono-Medium.ttf" />
+	  <None Remove="Fonts\FeatureMono-Regular.ttf" />
+	  <None Remove="Fonts\FeatureMono-Thin.ttf" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<Resource Include="Fonts\FeatureMono-Bold.ttf">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Fonts\FeatureMono-Hairline.ttf">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Fonts\FeatureMono-Light.ttf">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Fonts\FeatureMono-Medium.ttf">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Fonts\FeatureMono-Regular.ttf">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Fonts\FeatureMono-Thin.ttf">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Resource>
+	</ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+</Project>
